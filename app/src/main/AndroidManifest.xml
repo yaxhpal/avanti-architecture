@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="in.avanti.student_companion">
+    package="in.avanti.app">
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="in.avanti.student_companion.StudentCompanionApp"
+        android:name="in.avanti.app.StudentCompanionApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.MainActivity"></activity>
-        <activity android:name=".activities.LoginActivity"></activity>
-        <activity android:name=".login.LoginActivity">
+        <activity android:name="in.avanti.app.main.MainActivity"></activity>
+        <activity android:name="in.avanti.app.login.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="in.avanti.app.register.RegisterActivity"></activity>
     </application>
 
 </manifest>

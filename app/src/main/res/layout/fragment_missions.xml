@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="in.avanti.student_companion.fragments.MissionsFragment">
+    tools:context="in.avanti.app.mission.MissionsFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

@@ -25,5 +25,6 @@
     <string name="errorCannotChangeShiftMode">Unable to change value of shift mode</string>
     <string name="action_register">Signup</string>
     <string name="cannot_login">Don\'t have an account?</string>
+    <string name="prompt_name">Full Name</string>
 
 </resources>

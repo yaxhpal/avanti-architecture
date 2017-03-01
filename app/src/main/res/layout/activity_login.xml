@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="in.avanti.student_companion.activities.LoginActivity"
+    tools:context="in.avanti.app.activities.LoginActivity"
     android:background="@color/colorPrimary">
 
     <ImageView
@@ -75,7 +75,7 @@
 
 
     <Button
-        android:id="@+id/email_sign_in_button"
+        android:id="@+id/register_button"
         android:text="@string/action_sign_in_short"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"

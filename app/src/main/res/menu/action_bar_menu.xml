@@ -7,8 +7,9 @@
         android:title="item_1"
         app:showAsAction="always"/>
     <item
-        android:id="@+id/action_item2"
-        android:icon="@mipmap/ic_launcher"
-        android:title="item_2"
-        app:showAsAction="always"/>
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_action_logout"
+        android:title="Logout"
+        app:showAsAction="always"
+        android:onClick="logout"/>
 </menu>
