@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_1f3bfe1b555d3e2cd367397b77a2a0afae1a8e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_db8b574103751e29c892523d33f8bfc7eae058bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8b6e31343b6de9a37f6d81d7fdda29b3b4a90de">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.1.1_66f9e3995047338452e1c813f47cf0e521010da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_13d916670b1ad585d30b3adfabaf85943d47961b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_5c560cc55afc5c3e2b802b33e3e4265e059ce17e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_d2efe20c7119ce6a7a9c8948d2cf47d6ce6f6681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0_5e52d80a782532dcac24d486c51f09482f8251af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_866ad12c65718f65d5fb9bcbb04544951602ab2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_a532ba244c7bc455dd6ab2a743d859eff3d45e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_11397141e239fea4af2c28f4af382e099cc63305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_335940d40de77057cbe49c3494be0dbc801508e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_2fcfa70a789780addffa6a311908428a8e521084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_4b13b16ee57386cb2d02c56327d4221c0732d561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yashpal/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/junit-4.12_8c539a35894be8160c9794ddfb30f630d5aef6ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_2bcf6fb0374c7623c74258384ff012ef089f0915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/guava-18.0_5547d236db571a59edada76959e1b4025707d185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_64690e2021e77f42a87b8320a7845368c5e33f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0_cb2b35b510bdb095f36de31b2295adc9a4428760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_1356ca30e1dec9d070649c96324ad4cf56adff96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yashpal/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.1.1/d5a450f6ad58f779e924381744ecff0ef7e8d453/realm-annotations-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5a450f6ad58f779e924381744ecff0ef7e8d453">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/realm-annotations-2.1.1_c40e12902fd493cef35d6e8e708eb79733ee11ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yashpal/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_54b5cbee757e8ad0d5d999eabe21832bcdb18506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/google/android/Projects/bullseye/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/opt/google/android/Projects/bullseye/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_5da185c865ae6d052b22194d9a81c8c976e3d78d.jar" />
+    </item>
+
+</items>

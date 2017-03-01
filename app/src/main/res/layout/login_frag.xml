@@ -1,0 +1,124 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_form"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="in.avanti.student_companion.activities.LoginActivity"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/avanti_logo"
+        android:src="@drawable/avanti_logo_a"
+        android:layout_width="wrap_content"
+        android:contentDescription="@string/logo_desc"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/login_status_message"
+        android:text="@string/login_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/avanti_logo"
+        app:layout_constraintBottom_toTopOf="@+id/email"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="312dp"
+        android:layout_height="37dp"
+        android:hint="@string/prompt_email"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:layout_marginTop="256dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textColorHint="@color/silver"
+        android:background="@color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"/>
+
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="312dp"
+        android:layout_height="37dp"
+        android:hint="@string/prompt_password"
+        android:imeActionId="@+id/login"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionUnspecified"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/email"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/black"
+        android:textColorHint="@color/silver"
+        android:background="@color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+
+    <Button
+        android:id="@+id/email_sign_in_button"
+        android:text="@string/action_sign_in_short"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:background="@color/avantiYellow"
+        android:layout_width="312dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/password"
+        android:layout_height="37dp" />
+
+    <Button
+        android:text="@string/action_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/register"
+        android:textColor="@color/white"
+        android:textAllCaps="true"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/email_sign_in_button"
+        app:layout_constraintLeft_toRightOf="@+id/cantlogin" />
+
+    <TextView
+        android:text="@string/cannot_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cantlogin"
+        android:textColor="@color/silver"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/email_sign_in_button"
+        android:layout_marginStart="64dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="64dp" />
+
+</android.support.constraint.ConstraintLayout>

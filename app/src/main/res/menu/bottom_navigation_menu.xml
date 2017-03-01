@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/missions"
+        android:icon="@drawable/ic_mission"
+        android:title="@string/missions"/>
+    <item
+        android:id="@+id/learn"
+        android:icon="@drawable/ic_learn"
+        android:title="@string/learn"/>
+    <item
+        android:id="@+id/progress"
+        android:icon="@drawable/ic_progress"
+        android:title="@string/progress"/>
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"
+        android:title="@string/more"/>
+</menu>
